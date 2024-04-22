@@ -3,7 +3,7 @@
 
 # Kullanılan Teknolojiler
 - HTML
-- BootStrap
+- CSS
 - JavaScript
 
 
